@@ -1,18 +1,29 @@
-### Open terminal in this directory
+# Installation
 ### Run:
-### `python -m venv venv`
+python -m venv venv`
 
 ### Linux:
-### `venv/bin/activate`
+```bash
+source venv/bin/activate`
+```
 
 ### Windows
-### `.\venv\Scripts\activate`
+```bash
+.\venv\Scripts\activate
+```
+
 
 ### install the requiements
-### `pip install -r requirements.txt`
+```bash
+pip install -r requirements.txt
+```
 
 ### Show results in terminal
-### `python index.py`
+```bash
+python index.py
+```
 
 ### Unittest
-### `python test.py`
+```bash
+python test.py
+```
